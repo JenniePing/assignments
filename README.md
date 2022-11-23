@@ -1,6 +1,6 @@
 # assignments
 
-analy_model_py 是按照论文公式推理的结果，包括fig3、fig4、fig6和fig7中的analytical model部分图像
+analy_model.py 是按照论文公式推理的结果，包括fig3、fig4、fig6和fig7中的analytical model部分图像
 
 gra.py是fig5中的analytical图像
 
