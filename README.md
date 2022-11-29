@@ -1,4 +1,5 @@
 # assignments
+Reproduce "Age of Information in Random Access Networks with Stochastic Arrivals"
 
 analy_model.py 是按照论文公式推理的结果，包括fig3、fig4、fig6和fig7中的analytical model部分图像
 
